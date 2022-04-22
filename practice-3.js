@@ -1,0 +1,12 @@
+const firstNumber = 25;
+const secondNumber = 5;
+let addResult = firstNumber + secondNumber;
+let subtractResult = firstNumber - secondNumber;
+let multiplyResult = firstNumber * secondNumber;
+let divisionResult = firstNumber / secondNumber;
+let remainderResult = firstNumber % secondNumber;
+console.log(addResult);
+console.log(subtractResult);
+console.log(multiplyResult);
+console.log(divisionResult);
+console.log(remainderResult);
